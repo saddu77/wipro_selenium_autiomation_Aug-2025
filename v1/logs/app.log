@@ -1,0 +1,7 @@
+2025-08-20 09:33:03,256 [main] INFO  v1.AppTest - Starting login test - init()
+2025-08-20 09:33:06,463 [main] INFO  v1.AppTest - Test completed
+2025-08-20 09:38:15,591 [main] INFO  v1.AppTest - Starting login test - init()
+2025-08-20 09:38:18,672 [main] INFO  v1.AppTest - Test completed
+2025-08-20 09:54:30,121 [main] INFO  v1.AppTest - Starting login test - init()
+2025-08-20 09:54:32,778 [main] INFO  v1.AppTest - Navigated to application
+2025-08-20 09:54:33,245 [main] INFO  v1.AppTest - Test completed
